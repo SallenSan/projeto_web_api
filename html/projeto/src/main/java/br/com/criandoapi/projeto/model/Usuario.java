@@ -10,7 +10,7 @@ public class Usuario {
     @Column(name = "id")
     private Integer id;
 
-    @Column(name = "nome", length = 200, nullable = true)
+    @Column(name = "nome", length = 30, nullable = true)
     private String nome;
     @Column(name = "email", length = 50, nullable = true)
     private String email;
