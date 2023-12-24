@@ -1,7 +1,7 @@
-package br.com.criandoapi.projeto.controller;
+package src.main.br.com.criandoapi.projeto.controller;
 
-import br.com.criandoapi.projeto.DAO.InterfaceUsuario;
-import br.com.criandoapi.projeto.model.Usuario;
+import src.main.br.com.criandoapi.projeto.DAO.InterfaceUsuario;
+import src.main.br.com.criandoapi.projeto.model.Usuario;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 

@@ -1,4 +1,4 @@
-package br.com.criandoapi.projeto.model;
+package src.main.br.com.criandoapi.projeto.model;
 
 import jakarta.persistence.*;
 

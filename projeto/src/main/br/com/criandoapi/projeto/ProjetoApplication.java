@@ -1,4 +1,4 @@
-package br.com.criandoapi.projeto;
+package src.main.br.com.criandoapi.projeto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
